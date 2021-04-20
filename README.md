@@ -7,73 +7,68 @@
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="591" style="border-collapse:
- collapse;table-layout:fixed;width:443pt" align="center">
+ collapse;table-layout:fixed;width:443pt" >
  <colgroup><col width="181" style="mso-width-source:userset;mso-width-alt:6371;width:136pt">
  <col class="xl637116" width="410" style="mso-width-source:userset;mso-width-alt:
  14449;width:307pt">
  </colgroup><tbody><tr height="27" style="mso-height-source:userset;height:20.0pt">
-  <td height="27" class="xl647116" width="181" style="height:20.0pt;width:136pt">对象</td>
-  <td class="xl647116" width="410" style="border-left:none;width:307pt">操作</td>
+  <td height="27" class="xl647116" width="181" style="height:20.0pt;width:136pt" align="center">对象</td>
+  <td class="xl647116" width="410" style="border-left:none;width:307pt" align="center">操作</td>
  </tr>
  <tr height="27" style="mso-height-source:userset;height:20.0pt">
-  <td rowspan="2" height="54" class="xl647116" style="height:40.0pt;border-top:none">用户</td>
-  <td class="xl647116" style="border-top:none;border-left:none">登录</td>
+  <td rowspan="2" height="54" class="xl647116" style="height:40.0pt;border-top:none" align="center">用户</td>
+  <td class="xl647116" style="border-top:none;border-left:none" align="center">登录</td>
  </tr>
  <tr height="27" style="mso-height-source:userset;height:20.0pt">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
-  none">注册</td>
+  none" align="center">注册</td>
  </tr>
  <tr height="27" style="mso-height-source:userset;height:20.0pt">
   <td rowspan="7" height="189" class="xl647116" style="height:140.0pt;border-top:
-  none">商品</td>
-  <td class="xl647116" style="border-top:none;border-left:none">添加商品信息</td>
+  none" align="center">商品</td>
+  <td class="xl647116" style="border-top:none;border-left:none" align="center">添加商品信息</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">更新商品信息</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">删除商品</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">检索商品</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">一键在多国发布某一商品</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">一键在多个地区下架某商品</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">一键下架某地区的多个商品</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td rowspan="4" height="108" class="xl647116" style="height:80.0pt;border-top:none">订单</td>
   <td class="xl647116" style="border-top:none;border-left:none">检索某一商品所有订单</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">检索某一顾客所有订单</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">以订单金额为条件检索</td>
  </tr>
- <tr height="27" style="mso-height-source:userset;height:20.0pt">
+ <tr height="27" style="mso-height-source:userset;height:20.0pt" align="center">
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">获得某时间段内商品最畅销的三个国家</td>
  </tr>
- <!--[if supportMisalignedColumns]-->
- <tr height="0" style="display:none">
-  <td width="181" style="width:136pt"></td>
-  <td width="410" style="width:307pt"></td>
- </tr>
- <!--[endif]-->
+
 </tbody></table>
 
 
