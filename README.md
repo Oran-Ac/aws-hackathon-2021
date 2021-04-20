@@ -12,8 +12,8 @@
 </p>
 <p align="center">
   <a href="#computer-%E4%BD%BF%E7%94%A8">使用</a> •
-  <a href="#rocket-#界面介绍">界面介绍</a> •
-  <a href"#page_with_curl-使用技术">使用技术</a> •
+  <a href="#rocket-界面介绍">界面介绍</a> •
+  <a href="#page_with_curl-使用技术">使用技术</a> •
   <a href="#%EF%B8%8F-架构设计">架构设计</a> •
   <a href="#-部署指南">部署指南</a> •
   <a href="#-功能迭代">功能迭代</a> •
