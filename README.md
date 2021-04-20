@@ -5,10 +5,6 @@
 
 **实现特性**
 
-|  对象   | 操作  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
 
 <table border="0" cellpadding="0" cellspacing="0" width="591" style="border-collapse:
  collapse;table-layout:fixed;width:443pt">
@@ -80,13 +76,7 @@
  <!--[endif]-->
 </tbody></table>
 
-✅邮箱注册与登录
-✅添加商品：
-✅
-✅
-✅
-✅
-✅
+
 
 **导航：**
 - [界面介绍](https://github.com/Oran-Ac/aws-hackathon-2021/#rocket-%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D)
