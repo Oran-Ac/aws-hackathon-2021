@@ -68,6 +68,14 @@
   <td height="27" class="xl647116" style="height:20.0pt;border-top:none;border-left:
   none">获得某时间段内商品最畅销的三个国家</td>
  </tr>
+ <tr height="27" style="mso-height-source:userset;height:20.0pt">
+  <td height="27" class="xl647116" width="181" style="height:20.0pt;width:136pt" align="center">语言</td>
+  <td class="xl647116" width="410" style="border-left:none;width:307pt" align="center">一键翻译</td>
+ </tr>
+ <tr height="27" style="mso-height-source:userset;height:20.0pt">
+  <td height="27" class="xl647116" width="181" style="height:20.0pt;width:136pt" align="center">金额</td>
+  <td class="xl647116" width="410" style="border-left:none;width:307pt" align="center">实时汇率换算</td>
+ </tr>
 
 </tbody></table>
 
