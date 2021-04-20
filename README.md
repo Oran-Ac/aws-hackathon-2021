@@ -3,27 +3,27 @@
 ![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/head.png)
 <p align="center">
   <a href="#使用">使用</a> •
-  <a href="#界面介绍">Installation</a> •
-  <a href="#使用技术">Updating</a> •
-  <a href="#架构设计">Features</a> •
-  <a href="#部署指南">Binds</a> •
-  <a href="#功能迭代">Wiki</a> •
-  <a href="#贡献名单">Contributing</a> 
+  <a href="#界面介绍">界面介绍</a> •
+  <a href="#使用技术">使用技术</a> •
+  <a href="#架构设计">架构设计</a> •
+  <a href="#部署指南">部署指南</a> •
+  <a href="#功能迭代">功能迭代</a> •
+  <a href="#贡献名单">贡献名单</a> 
 </p>
 
-# 导航：
-- [使用](https://github.com/Oran-Ac/aws-hackathon-2021#computer-%E4%BD%BF%E7%94%A8)
-- [界面介绍](https://github.com/Oran-Ac/aws-hackathon-2021/#rocket-%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D)
-  - [注册/登录界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2)
-  - [后台管理界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2)
-- [使用技术](https://github.com/Oran-Ac/aws-hackathon-2021/#page_with_curl-%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%E8%AF%B4%E6%98%8E)
-- [架构设计](https://github.com/Oran-Ac/aws-hackathon-2021/#%EF%B8%8F-%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)
-  - [云服务架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E4%BA%91%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84) 
-  - [后端架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84)
-  - [数据库架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9E%B6%E6%9E%84)
-- [部署指南](https://github.com/Oran-Ac/aws-hackathon-2021/#%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97)
-- [功能迭代](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%BE%85%E5%BC%80%E5%8F%91)
-- [贡献名单](https://github.com/Oran-Ac/aws-hackathon-2021/#%E8%B4%A1%E7%8C%AE%E5%90%8D%E5%8D%95)
+;# 导航：
+;- [使用](https://github.com/Oran-Ac/aws-hackathon-2021#computer-%E4%BD%BF%E7%94%A8)
+;- [界面介绍](https://github.com/Oran-Ac/aws-hackathon-2021/#rocket-%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D)
+;  - [注册/登录界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2)
+;  - [后台管理界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2)
+;- [使用技术](https://github.com/Oran-Ac/aws-hackathon-2021/#page_with_curl-%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF%E8%AF%B4%E6%98%8E)
+;- [架构设计](https://github.com/Oran-Ac/aws-hackathon-2021/#%EF%B8%8F-%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)
+;  - [云服务架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E4%BA%91%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84) 
+;  - [后端架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84)
+;  - [数据库架构](https://github.com/Oran-Ac/aws-hackathon-2021/#%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9E%B6%E6%9E%84)
+;- [部署指南](https://github.com/Oran-Ac/aws-hackathon-2021/#%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97)
+;- [功能迭代](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%BE%85%E5%BC%80%E5%8F%91)
+;- [贡献名单](https://github.com/Oran-Ac/aws-hackathon-2021/#%E8%B4%A1%E7%8C%AE%E5%90%8D%E5%8D%95)
 
 ## :computer: 使用
 想要一次发布全球可售？跨越语言与货币的阻碍，“售全球”后台管理器满足你的所有需求。点击：[“售全球”](https://github.com/Oran-Ac/aws-hackathon-2021/edit/master/README.md)快速体验。
