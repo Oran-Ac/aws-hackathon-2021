@@ -126,6 +126,7 @@
 
 # 🏗️ 架构设计
 ## ☁️ 云服务架构
+![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/structure.png)
 ## 🛎️ 后端架构
 ![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/Back-end%20frame.png)
 ## 💿 数据库架构
