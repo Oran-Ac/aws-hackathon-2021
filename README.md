@@ -129,6 +129,7 @@
 ## 🛎️ 后端架构
 ![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/Back-end%20frame.png)
 ## 💿 数据库架构
+![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/db.png)
 
 # 📦 部署指南
 
