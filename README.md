@@ -1,6 +1,15 @@
 
 #
 ![image](https://github.com/Oran-Ac/aws-hackathon-2021/blob/master/head.png)
+<h4 align="center">售全球：基于亚马逊云服务的后台管理系统</h4>
+
+
+<p align="center">
+    <a href="https://github.com/Oran-Ac/aws-hackathon-2021/commits/master">
+    <img src="https://img.shields.io/github/last-commit/Oran-Ac/aws-hackathon-2021.svg?style=flat-square&logo=github&logoColor=white"
+         alt="GitHub last commit">
+
+</p>
 <p align="center">
   <a href="#使用">使用</a> •
   <a href="#界面介绍">界面介绍</a> •
@@ -11,7 +20,7 @@
   <a href="#贡献名单">贡献名单</a> 
 </p>
 
-
+--
 
 ## :computer: 使用
 想要一次发布全球可售？跨越语言与货币的阻碍，“售全球”后台管理器满足你的所有需求。点击：[“售全球”](https://github.com/Oran-Ac/aws-hackathon-2021/edit/master/README.md)快速体验。
