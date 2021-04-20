@@ -57,7 +57,8 @@
   - 存放页面框架翻译
 - AWS IAM：资源访问权限管理
 - AWS Cognito：身份池管理
-- AWS EC2：存放Web前端服务       
+- AWS EC2：存放Web前端服务
+- AWS Amplify API：使得JavaScript能调用AWS Lambda函数       
 
 
 ## 🏗️ 架构设计
