@@ -3,11 +3,11 @@
 # :computer: 使用
 想要一次发布全球可售？跨越语言与货币的阻碍，“售全球”后台管理器满足你的所有需求。点击：[“售全球”](https://github.com/Oran-Ac/aws-hackathon-2021/edit/master/README.md)快速体验。
 
-**实现特性**
+## 实现特性
 
 
 <table border="0" cellpadding="0" cellspacing="0" width="591" style="border-collapse:
- collapse;table-layout:fixed;width:443pt">
+ collapse;table-layout:fixed;width:443pt" align="center">
  <colgroup><col width="181" style="mso-width-source:userset;mso-width-alt:6371;width:136pt">
  <col class="xl637116" width="410" style="mso-width-source:userset;mso-width-alt:
  14449;width:307pt">
@@ -78,7 +78,7 @@
 
 
 
-**导航：**
+## 导航：
 - [界面介绍](https://github.com/Oran-Ac/aws-hackathon-2021/#rocket-%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D)
   - [注册/登录界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2)
   - [后台管理界面](https://github.com/Oran-Ac/aws-hackathon-2021/#%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2)
