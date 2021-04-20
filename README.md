@@ -1,6 +1,6 @@
 # aws-hackathon-2021
 
-# 使用
+# :computer: 使用
 想要一次发布全球可售？跨越语言与货币的阻碍，“售全球”后台管理器满足你的所有需求。点击：[“售全球”](https://github.com/Oran-Ac/aws-hackathon-2021/edit/master/README.md)快速体验。
 
 ===这里做一个超连接
@@ -19,7 +19,7 @@
 =====动图
 
 
-# :page_with_curl:使用技术说明
+# :page_with_curl: 使用技术说明
 - AWS Elastic Beanstalk：创建Java环境，一键部署后端服务
 - AWS Lambda：
   - 进行实时汇率计算
@@ -38,7 +38,7 @@
 ## 后端架构
 ## 数据库架构
 
-# :computer:部署指南
+# 部署指南
 
 
 # 待开发
