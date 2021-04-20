@@ -156,9 +156,9 @@
 <details><summary><b>难点未实现</b></summary><p> <b>税费计算</b>：<br>在阅读相关资料后，发现各国各类商品税费都不同，国家进出口中心上税务查询除了要输入出口国和进口国以外，还需要输入商品完整编号</p><p><b>邮费计算</b>：<br>邮费计算要求邮编等信息。在最初想要爬取联邦快递等跨国快递的网站给出指导价格，但是网站的操作逻辑导致无法爬取</p></details> 
 
 ## 贡献名单
-🤸‍♂️ 赵志鹏（[主页](https://github.com/Oran-Ac)/[邮箱](oran_official@outlook.com)）：人工智能翻译、文档撰写、服务上云<br>
-🦸‍♀️ 王彬（主页/[邮箱](1286746591)）：Java后端<br>
-🙋‍♂️ 张宇洲（主页/[邮箱](89657899@qq.com)）：Vue前端
+🤸‍♂️ 赵志鹏（[主页](https://github.com/Oran-Ac)/<a href="mailto:oran_official@outlook.com">邮箱</a>)）：人工智能翻译、文档撰写、服务上云<br>
+🦸‍♀️ 王彬（主页/<a href="mailto:1286746591@qq.com">邮箱</a>)）：Java后端<br>
+🙋‍♂️ 张宇洲（主页/<a href="mailto:89657899@qq.com">邮箱</a>）：Vue前端
 
 
 
