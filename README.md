@@ -111,7 +111,7 @@
 
 
 # :page_with_curl: 使用技术
-- AWS Elastic Beanstalk：创建Java环境，一键部署后端服务
+- AWS Elastic Beanstalk：创建Java环境，一键部署jar包后端服务
 - AWS Lambda：
   - 进行实时汇率计算
   - 与Amazone Translate配合提供高质量翻译结果  
