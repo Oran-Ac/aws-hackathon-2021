@@ -81,9 +81,9 @@
 - 授予Lambda调用AWS Translate的权限。
 - 将后端代码编译成jar包
 - 打开AWS Elastic beanstalk，创建一个Java 8环境，并上传相应jar包，如果环境检测为绿色则表示状态良好，可以使用。<br>
-'''
+```
 ❗ 在使用AWS Elastic beanstalk创建环境配置时，需要增加环境变量PORT并设置为5000。Spring Boot默认端口为8080，而AWS自动检测端口为5000。
-'''
+```
 
 ## 🔨 功能特性
 ### 实现特性
