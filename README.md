@@ -48,18 +48,18 @@
 
 
 ## :page_with_curl: 使用技术
-- AWS Elastic Beanstalk：创建Java环境，一键部署jar包后端服务
+- AWS Elastic Beanstalk：创建Java环境，一键部署jar包后端服务。
 - AWS Lambda：
-  - 进行实时汇率计算
-  - 与Amazone Translate配合提供高质量翻译结果  
+  - 进行实时汇率计算。
+  - 与Amazone Translate配合提供高质量翻译结果。  
 - AWS S3：
-  - 作为图床存取用户商品信息
-  - 存放Elastic Beanstalk需要使用的配置文件和历史版本
-  - 存放页面框架翻译
-- AWS IAM：资源访问权限管理
-- AWS Cognito：身份池管理
-- AWS EC2：存放Web前端服务
-- AWS Amplify API：使得JavaScript能调用AWS Lambda函数
+  - 作为图床存取用户商品信息。
+  - 存放Elastic Beanstalk需要使用的配置文件和历史版本。
+  - 存放页面框架翻译。
+- AWS IAM：资源访问权限管理。
+- AWS Cognito：身份池管理。
+- AWS EC2：存放Web前端服务。
+- AWS Amplify API：使得JavaScript能调用AWS Lambda函数。
 - AWS Cognito：管理身份池，赋予前端权限。    
 
 
