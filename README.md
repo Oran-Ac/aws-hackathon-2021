@@ -164,9 +164,8 @@
 
 ## 贡献名单
 🤸‍♂️ 赵志鹏（[主页](https://github.com/Oran-Ac)/<a href="mailto:oran_official@outlook.com">邮箱</a>)）：云上服务撰写（翻译、汇率）、文档撰写、服务上云<br>
-🦸‍♀️ 王彬（主页/<a href="mailto:1286746591@qq.com">邮箱</a>)）：Java后端<br>
-🙋‍♂️ 张宇洲（主页/<a href="mailto:89657899@qq.com">邮箱</a>）：Vue前端
-
+🦸‍♀️ 王彬（主页/<a href="mailto:1286746591@qq.com">邮箱</a>)）：Java后端、前后端接口对接、数据库设计<br>
+🙋‍♂️ 张宇洲（主页/<a href="mailto:89657899@qq.com">邮箱</a>）：Vue前端开发、前后端接口对接
 
 
 
