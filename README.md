@@ -60,7 +60,7 @@
 - AWS Cognito：身份池管理
 - AWS EC2：存放Web前端服务
 - AWS Amplify API：使得JavaScript能调用AWS Lambda函数
-- 使用AWS Cog       
+- AWS Cognito：管理身份池，赋予前端权限。    
 
 
 ## 🏗️ 架构设计
