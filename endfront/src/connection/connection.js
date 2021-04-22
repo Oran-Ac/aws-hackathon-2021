@@ -2,12 +2,12 @@ import axios from 'axios';
 axios.defaults.baseURL = "http://Soglobal-env.eba-gyvuqgty.us-east-1.elasticbeanstalk.com";
 // AWS云服务通信
 const AWS = require("aws-sdk");
-AWS.config.region = "us-east-1";
+AWS.config.region = "xxxxx";
 AWS.config.credentials = new AWS.CognitoIdentityCredentials({
-    IdentityPoolId: "us-east-1:df0bcaae-0332-4b5b-a3b3-71ccade98663",
+    IdentityPoolId: "xxxxxxxx",
 });
 // s3配置
-let albumBucketName = "awspicture";
+let albumBucketName = "xxxx";
 let s3 = new AWS.S3({
     apiVersion: "2006-03-01",
     params: { Bucket: albumBucketName },
@@ -20,7 +20,7 @@ let lambda = new AWS.Lambda()
 // 动态语言翻译
 function getLanguageDyncmic(str, attr) {
     return lambda.invoke({
-        FunctionName: "translateTheClient",
+        FunctionName: "xxxxx",
         Payload: JSON.stringify({
             target_language: sessionStorage.getItem("Language"),
             descriptions: str[attr],
@@ -46,7 +46,7 @@ function getCurrency(to) {
 async function postImgAWS(key, images) {
     s3.upload(
         {
-            Bucket: "awspicture",
+            Bucket: "xxxx",
             Key: key,
             Body: images,
             ACL: "public-read",
@@ -157,7 +157,7 @@ async function deleteJson(url, data) {
 async function getLanguage(fileFloder) {
     try {
         let response = await axios({
-            url: "http://tryclient-translated.s3-website-us-east-1.amazonaws.com/" + fileFloder +
+            url: "xxxxxx" + fileFloder +
                 sessionStorage.getItem("Language") +
                 ".json",
             method: "get",
