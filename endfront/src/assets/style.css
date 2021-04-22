@@ -1,0 +1,129 @@
+/* 全局样式表:暂定 */
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+el-select{
+  width: 10%;
+}
+body {
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+.container {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+  max-width: 400px;
+  margin: 30px auto;
+  margin-right: 100px;
+  overflow: auto;
+  border: 1.1px solid grey;
+  padding: 30px;
+  border-radius: 5px;
+  z-index: 10px;
+}
+.container:hover{
+  border: 1.1px solid steelblue;
+}
+.inputContainer{
+  margin-top: 10px;
+}
+
+.buttonContainer{
+  margin-top: 10px;
+}
+a{
+  font-size: 13px;
+  margin-left: 40%;
+  color:  steelblue;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+.ChoseCountry{
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 0;
+}
+.testConnection{
+  position: fixed;
+  margin-top: 300px;
+  border: 1px solid steelblue;
+  width: 70px;
+}
+#app{
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+/* router 样式 */
+#nav {
+  padding: 30px;
+}
+
+#nav a {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+#nav a.router-link-exact-active {
+  color: #42b983;
+}
+.el-header {
+  background-color: #409eff;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
+.el-footer {
+  background-color: steelblue;
+  color: white;
+  text-align: center;
+  line-height: 60px;
+}
+
+.el-aside {
+  background-color: #d3dce6;
+  color: #333;
+  text-align: center;
+  line-height: 200px;
+}
+
+.el-main {
+  background-color: #e9eef3;
+  color: #333;
+  text-align: center;
+  line-height: 160px;
+}
+
+body > .el-container {
+  margin-bottom: 40px;
+}
+
+.el-container:nth-child(5) .el-aside,
+.el-container:nth-child(6) .el-aside {
+  line-height: 260px;
+}
+
+.el-container:nth-child(7) .el-aside {
+  line-height: 320px;
+}
+/* 立体感 */
+.el-container {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 0 6px rgba(0, 0, 0, 0.04);
+}
+.el-dropdown {
+  margin-top: -5px;
+}
+.el-dropdown + .el-dropdown {
+  margin-left: 20px;
+}
+.el-icon-arrow-down {
+  font-size: 12px;
+}
+/* 调整表格字体 */
+.el-table{
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+.el-button{
+  font-family: 'ZCOOL XiaoWei', serif;
+}

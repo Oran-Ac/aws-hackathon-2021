@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>
+    <%= htmlWebpackPlugin.options.title %>
+  </title>
+</head>
+
+<body>
+  <script src="https://sdk.amazonaws.com/js/aws-sdk-2.742.0.min.js"></script>
+  <script>
+    AWS.config.region = 'us-east-1'
+    AWS.config.credentials = new AWS.CognitoIdentityCredentials({
+      IdentityPoolId: 'us-east-1:df0bcaae-0332-4b5b-a3b3-71ccade98663',
+    })
+
+    var albumBucketName = 'awspicture'
+    var bucketRegion = 'us-east-1'
+    var IdentityPoolId = 'us-east-1:df0bcaae-0332-4b5b-a3b3-71ccade98663'
+    var s3 = new AWS.S3({
+      apiVersion: '2006-03-01',
+      params: { Bucket: albumBucketName },
+    })
+  </script>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>
