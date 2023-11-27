@@ -12,12 +12,12 @@
 <p align="center">
     <a href="\README.md">Chinese Readme.md</a> •
   <a href="#computer-Usage">Usage</a> •
-  <a href="#rocket-界面介绍">Dashboard Introduction</a> •
-  <a href="#page_with_curl-使用技术">AWS Services</a> •
-  <a href="#%EF%B8%8F-架构设计">Architecture design</a> •
-  <a href="#-部署指南">Deployment Guide</a> •
-  <a href="#-功能特性">Features</a> •
-  <a href="#贡献名单">Contribution</a> 
+  <a href="##rocket-dashboard-introduction">Dashboard Introduction</a> •
+  <a href="#page_with_curl-aws-services">AWS Services</a> •
+  <a href="#%EF%B8%8F-architecture-design">Architecture design</a> •
+  <a href="#-deployment-guide">Deployment Guide</a> •
+  <a href="#-features">Features</a> •
+  <a href="#contribution-list">Contribution</a> 
 </p>
 
 ## :computer: Usage
