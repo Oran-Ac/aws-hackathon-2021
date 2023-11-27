@@ -11,6 +11,7 @@
 
 </p>
 <p align="center">
+    <a href="\README_EN.md">ENGLISH Readme.md</a> •
      <a href="#computer-%E4%BD%BF%E7%94%A8">碎碎念</a> •
   <a href="#computer-%E4%BD%BF%E7%94%A8">使用</a> •
   <a href="#rocket-界面介绍">界面介绍</a> •
